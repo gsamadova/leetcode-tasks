@@ -1,3 +1,5 @@
+import java.util.Stack;
+
 public class LongPressedName {
     public Stack<CI> makeStack(String string) {
         Stack<CI> stack = new Stack<>();
